@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "OpenAdjustmentCMD",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.adjustment.cmd.OpenAdjustmentCMD",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "BaardaMethodTestStatistic",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.adjustment.statistic.BaardaMethodTestStatistic",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "SidakTestStatistic",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.adjustment.statistic.SidakTestStatistic",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "UnadjustedTestStatitic",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.adjustment.statistic.UnadjustedTestStatitic",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "CoordTransApp",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.coordtrans.CoordTransApp",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "CoordTrans",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.coordtrans.ui.CoordTrans",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "JAG3DApp",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.jag3d.JAG3DApp",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.jag3d.Test",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "JAG3D",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.jag3d.ui.JAG3D",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "JUniFormApp",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.juniform.JUniFormApp",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "CircleTest",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.juniform.test.nist.CircleTest",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "CircularConeTest",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.juniform.test.nist.CircularConeTest",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "CircularCylinderTest",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.juniform.test.nist.CircularCylinderTest",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "ConeTest",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.juniform.test.nist.ConeTest",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "CylinderTest",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.juniform.test.nist.CylinderTest",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "EllipseTest",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.juniform.test.nist.EllipseTest",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "EllipsoidTest",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.juniform.test.nist.EllipsoidTest",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "LineTest",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.juniform.test.nist.LineTest",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "PlaneTest",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.juniform.test.nist.PlaneTest",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "SpatialCircleTest",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.juniform.test.nist.SpatialCircleTest",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "SpatialLineTest",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.juniform.test.nist.SpatialLineTest",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "SphereTest",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.juniform.test.nist.SphereTest",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "TraCIM",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.juniform.test.tracim.TraCIM",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "JUniForm",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.juniform.ui.JUniForm",
+            "projectName": "JAG3D"
+        },
+        {
+            "type": "java",
+            "name": "HTTPPropertiesLoader",
+            "request": "launch",
+            "mainClass": "org.applied_geodesy.jag3d/org.applied_geodesy.util.io.properties.HTTPPropertiesLoader",
+            "projectName": "JAG3D"
+        }
+    ]
+}

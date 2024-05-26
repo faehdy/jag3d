@@ -37,22 +37,22 @@
             <attribute name="module" value="true"/>
         </attributes>
     </classpathentry>
-    <classpathentry kind="lib" path="C:/Users/fadri_zkxoohp/JavaFX/javafx-sdk-22.0.1/lib/javafx.base.jar">
+    <classpathentry kind="lib" path="lib/javafx.base.jar">
         <attributes>
             <attribute name="module" value="true"/>
         </attributes>
     </classpathentry>
-    <classpathentry kind="lib" path="C:/Users/fadri_zkxoohp/JavaFX/javafx-sdk-22.0.1/lib/javafx.controls.jar">
+    <classpathentry kind="lib" path="lib/javafx.controls.jar">
         <attributes>
             <attribute name="module" value="true"/>
         </attributes>
     </classpathentry>
-    <classpathentry kind="lib" path="C:/Users/fadri_zkxoohp/JavaFX/javafx-sdk-22.0.1/lib/javafx.graphics.jar">
+    <classpathentry kind="lib" path="lib/javafx.graphics.jar">
         <attributes>
             <attribute name="module" value="true"/>
         </attributes>
     </classpathentry>
-    <classpathentry kind="lib" path="C:/Users/fadri_zkxoohp/JavaFX/javafx-sdk-22.0.1/lib/javafx.swing.jar">
+    <classpathentry kind="lib" path="lib/javafx.swing.jar">
         <attributes>
             <attribute name="module" value="true"/>
         </attributes>
